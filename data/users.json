@@ -1,0 +1,10 @@
+[
+  {
+    "id": "6f9404c2-7dad-4427-ac26-5965a20cb0dd",
+    "name": "Daniel Alejandro Lopez",
+    "email": "danielalejandro234@gmail.com",
+    "password": "$2a$10$RTdqUMCb7dJWj8dXdVn2ceip.GIz6nmbS0Ud1ZtBleJ4Moi69F8de",
+    "isAdmin": true,
+    "createdAt": "2026-05-23T13:25:59.508Z"
+  }
+]
